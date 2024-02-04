@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    ;
+}
+
+.maindiv {
+    height: 100vh;
+    width: 100%;
+    background-color: #000300;
+    color: #7d007d;
+}
+
+.btn {
+    background: #460046;
+    width: 20%;
+    margin-top: 20px;
+}
+
+.btn:hover {
+    background-color: #7d007d;
+}
